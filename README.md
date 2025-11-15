@@ -4,7 +4,7 @@ A fully custom React + TypeScript Calendar Component built with Month View, Week
 
 🚀 Live Storybook
 
-🔗 Deployed Storybook URL: [Add your deployed link here]
+🔗 Deployed Storybook URL: [https://calendar-component-oxtne3tnx-sahadshaikh877-gmailcoms-projects.vercel.app/]
 
 📦 Installation
 npm install
